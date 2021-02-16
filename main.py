@@ -26,8 +26,8 @@ with Chrome() as driver:
     f.close()
 
     #Setting parameters;
-    email = 'bcbrunop@gmail.com'
-    password = 'Novato11!!'
+    email = 'admin'
+    password = 'admin'
     link = 'https://www.facebook.com/bernardo.junior.79656/posts/2713009795609469'
     qtdMessage = '2500'
 
